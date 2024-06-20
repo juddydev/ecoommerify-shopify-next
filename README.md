@@ -5,6 +5,9 @@ It follows the steps outlined in the official [Tailwind docs](https://tailwindcs
 
 It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
 
+## Deployment
+https://shopify-next-app-six.vercel.app/
+
 ## Requirements
 
 - Node (16.14.2)
